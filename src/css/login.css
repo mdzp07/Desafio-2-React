@@ -1,0 +1,23 @@
+.format-form {
+    width: 40%;
+    margin-left: 3rem;
+    margin-top: 5rem;
+    padding: 1rem;
+    background-color: lavenderblush;
+    border-radius: 5%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    font-size: 14pt;
+    font-weight:600;
+}
+
+#inputPassword {
+    font-family:'Courier New', Courier, monospace;
+    font-size: 11pt;
+}
+
+#inputEmail{
+    font-family:'Courier New', Courier, monospace;
+    font-size: 11pt;
+}
+

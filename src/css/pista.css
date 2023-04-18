@@ -1,0 +1,9 @@
+#estiloPista {
+    width: 70%;   
+    font-size: 11pt;
+}
+
+#texto{
+    color: gray;
+    overflow-wrap:break-word
+}
